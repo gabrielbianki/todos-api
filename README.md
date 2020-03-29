@@ -6,7 +6,7 @@ Para isto, foi utilizado PHP e MySQL.
 2 - Após instalado é necessário que seja clicado no "+" para testarmos
 
 Para fim de testes pode ser utilizado:
-*CRIAÇÃO:*
+### *CRIAÇÃO:*
 No link na parte superior será utilizado:
 http://bianki.com.br/todos/table/create.php
 E no seu lado esquerdo marcado a opção POST
@@ -20,14 +20,14 @@ Assim, clicaremos em 'Body' e após em 'Raw' logo a baixo. Adicionando o código
 
 Logo após, clicaremos em 'SEND'. Assim será adicionado o dado no banco.
 
-*LEITURA*
+### *LEITURA*
 Para a leitura dos dados será utilizado:
 http://bianki.com.br/todos/table/read.php
 E no seu lado esquerdo marcado a opção POST
 
 Logo após, clicaremos em 'SEND'. Assim será listado os dados do banco.
 
-*ATUALIZAÇÕES*
+### *ATUALIZAÇÕES*
 No link na parte superior será utilizado:
 http://bianki.com.br/todos/table/update.php
 E no seu lado esquerdo marcado a opção POST
@@ -42,7 +42,7 @@ Assim, clicaremos em 'Body' e após em 'Raw' logo a baixo. Adicionando o código
 
 Logo após, clicaremos em 'SEND'. Assim será atualizado o dado mencionado.
 
-*DELETAR*
+### *DELETAR*
 No link na parte superior será utilizado:
 http://bianki.com.br/todos/table/delete.php
 E no seu lado esquerdo marcado a opção POST
